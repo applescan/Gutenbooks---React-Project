@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gutenbooks---React-Project/static/css/main.68c133cb.css",
-    "main.js": "/Gutenbooks---React-Project/static/js/main.0825d52c.js",
+    "main.js": "/Gutenbooks---React-Project/static/js/main.2913b2bf.js",
     "static/js/190.00deea13.chunk.js": "/Gutenbooks---React-Project/static/js/190.00deea13.chunk.js",
     "static/js/254.f0233b99.chunk.js": "/Gutenbooks---React-Project/static/js/254.f0233b99.chunk.js",
     "static/js/305.69a2c71b.chunk.js": "/Gutenbooks---React-Project/static/js/305.69a2c71b.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/logo.png": "/Gutenbooks---React-Project/static/media/logo.70fbf5a3b521f6adb0d4.png",
     "index.html": "/Gutenbooks---React-Project/index.html",
     "main.68c133cb.css.map": "/Gutenbooks---React-Project/static/css/main.68c133cb.css.map",
-    "main.0825d52c.js.map": "/Gutenbooks---React-Project/static/js/main.0825d52c.js.map",
+    "main.2913b2bf.js.map": "/Gutenbooks---React-Project/static/js/main.2913b2bf.js.map",
     "190.00deea13.chunk.js.map": "/Gutenbooks---React-Project/static/js/190.00deea13.chunk.js.map",
     "254.f0233b99.chunk.js.map": "/Gutenbooks---React-Project/static/js/254.f0233b99.chunk.js.map",
     "305.69a2c71b.chunk.js.map": "/Gutenbooks---React-Project/static/js/305.69a2c71b.chunk.js.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.68c133cb.css",
-    "static/js/main.0825d52c.js"
+    "static/js/main.2913b2bf.js"
   ]
 }
