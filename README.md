@@ -3,6 +3,9 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live site
+https://gutenbooks-read.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
